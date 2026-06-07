@@ -120,3 +120,5 @@ Unlike simple loops that use `while read` along with interactive commands, this 
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+<img width="2960" height="900" alt="Screenshot_2026-06-07_21_27_25" src="https://github.com/user-attachments/assets/03fbd41d-509e-43a8-b868-fb3feace8719" />
+<img width="2960" height="900" alt="Screenshot_2026-06-07_21_27_20" src="https://github.com/user-attachments/assets/ec17a866-288a-42f1-b298-20836e13cb59" />
